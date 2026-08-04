@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0217-contains-duplicate](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [3731-find-missing-elements](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
