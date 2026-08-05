@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0461-hamming-distance) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0494-target-sum) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [3731-find-missing-elements](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -70,4 +73,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
+## String
+|  |
+| ------- |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 <!---LeetCode Topics End-->
