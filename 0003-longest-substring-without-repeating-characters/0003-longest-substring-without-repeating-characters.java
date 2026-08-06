@@ -4,13 +4,14 @@ class Solution {
         int answer = 0;
         int left = 0;
         for(int right=0; right<s.length(); right++){
-            char c = s.charAt(right);
-            while(set.contains(c)){
+            
+            while(set.contains(s.charAt(right))){
                 set.remove(s.charAt(left));
                 left++;
             }
-            set.add(c);
-            answer = Math.max(answer, (right - left +1));
+            set.add(s.charAt(right));
+            int length = right - left +1;
+            answer = Math.max(answer, length);
         }
         return answer;
     }
