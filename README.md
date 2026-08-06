@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0494-target-sum) |
+| [1137-n-th-tribonacci-number](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Array
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -95,4 +97,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
