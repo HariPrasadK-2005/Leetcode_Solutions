@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0494-target-sum) |
+| [0877-stone-game](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Array
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0494-target-sum](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0494-target-sum) |
+| [0877-stone-game](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0258-add-digits) |
+| [0877-stone-game](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -119,4 +122,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
