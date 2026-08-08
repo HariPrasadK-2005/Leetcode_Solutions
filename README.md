@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0877-stone-game](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -167,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
