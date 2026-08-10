@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0494-target-sum](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0877-stone-game) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0202-happy-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
