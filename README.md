@@ -195,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1572-matrix-diagonal-sum) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
