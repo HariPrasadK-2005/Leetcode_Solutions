@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
