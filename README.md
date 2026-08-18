@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0494-target-sum) |
 ## Knapsack Problem
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0383-ransom-note](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0079-word-search) |
 | [1572-matrix-diagonal-sum](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Database
 |  |
