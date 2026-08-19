@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
+| [2119-a-number-after-a-double-reversal](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
