@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0231-power-of-two) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
