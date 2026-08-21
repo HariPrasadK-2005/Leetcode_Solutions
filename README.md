@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0383-ransom-note](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -266,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0278-first-bad-version) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
