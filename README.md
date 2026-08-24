@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0046-permutations) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0202-happy-number](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Floyd's Cycle Finding Algorithm
