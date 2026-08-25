@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0667-beautiful-arrangement-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0877-stone-game](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0877-stone-game) |
+| [1053-previous-permutation-with-one-swap](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1140-stone-game-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -278,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1053-previous-permutation-with-one-swap](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1053-previous-permutation-with-one-swap) |
 <!---LeetCode Topics End-->
