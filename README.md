@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0461-hamming-distance) |
+| [0491-non-decreasing-subsequences](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2206-divide-array-into-equal-pairs](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 ## Divide and Conquer
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0667-beautiful-arrangement-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0877-stone-game](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0877-stone-game) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0491-non-decreasing-subsequences](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2206-divide-array-into-equal-pairs](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0090-subsets-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0494-target-sum) |
 ## Knapsack Problem
 |  |
