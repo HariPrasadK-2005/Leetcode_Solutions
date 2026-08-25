@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0494-target-sum](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0494-target-sum) |
+| [0667-beautiful-arrangement-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0877-stone-game](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0258-add-digits) |
+| [0667-beautiful-arrangement-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0877-stone-game](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
