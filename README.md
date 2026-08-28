@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0461-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0491-non-decreasing-subsequences) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0494-target-sum) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0667-beautiful-arrangement-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0877-stone-game](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -276,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Interactive
