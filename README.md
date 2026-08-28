@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0667-beautiful-arrangement-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0667-beautiful-arrangement-ii) |
+| [0819-most-common-word](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0819-most-common-word) |
 | [0877-stone-game](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1053-previous-permutation-with-one-swap](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1140-stone-game-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0491-non-decreasing-subsequences) |
+| [0819-most-common-word](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0819-most-common-word) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2206-divide-array-into-equal-pairs](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0389-find-the-difference) |
+| [0819-most-common-word](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0819-most-common-word) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0819-most-common-word](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0819-most-common-word) |
 | [2206-divide-array-into-equal-pairs](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 ## Minimax
 |  |
