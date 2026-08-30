@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
@@ -311,4 +312,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/HariPrasadK-2005/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
